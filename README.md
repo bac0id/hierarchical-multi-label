@@ -1,6 +1,6 @@
 # Hierarchical Multi Label(HML)
 
-[简体中文](README_cn.md)
+Language: [简体中文](README_cn.md) 
 
 ## Introduction
 
