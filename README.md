@@ -1,5 +1,7 @@
 # Hierarchical Multi Label(HML)
 
+[简体中文](README_cn.md)
+
 ## Introduction
 
 The attributes of a photo are diverse, including time, location, people, objects, events, etc. 
