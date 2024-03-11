@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HML", "HML\HML.csproj", "{70A69B83-0202-461D-8F9D-363F31CF43BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HML.View", "HML.View\HML.View.csproj", "{714D02DC-5256-420B-BF72-54542157CC62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HML.Test", "HML.Test\HML.Test.csproj", "{F0757C17-73A2-47C4-8C3D-136D58BC3BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A69B83-0202-461D-8F9D-363F31CF43BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A69B83-0202-461D-8F9D-363F31CF43BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A69B83-0202-461D-8F9D-363F31CF43BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A69B83-0202-461D-8F9D-363F31CF43BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714D02DC-5256-420B-BF72-54542157CC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714D02DC-5256-420B-BF72-54542157CC62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714D02DC-5256-420B-BF72-54542157CC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714D02DC-5256-420B-BF72-54542157CC62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0757C17-73A2-47C4-8C3D-136D58BC3BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0757C17-73A2-47C4-8C3D-136D58BC3BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0757C17-73A2-47C4-8C3D-136D58BC3BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0757C17-73A2-47C4-8C3D-136D58BC3BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A171D627-6FB1-46F3-BF21-BDDF3135CD1C}
+	EndGlobalSection
+EndGlobal
